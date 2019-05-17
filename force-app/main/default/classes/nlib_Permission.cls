@@ -4,7 +4,7 @@
  * This is heavily inspired by the wonderful work by Andy Fawcett.
  * You should read his blog at https://andyinthecloud.com and buy his book
  * 'Force.com Enterprise Patterns'
- * 
+ *
  */
 public class nlib_Permission
 {

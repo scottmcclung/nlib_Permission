@@ -1,4 +1,4 @@
-# Custom Permission Assignment Tool for Flows
+# Custom Permission Checker Apex Action for Flows
 
 An Apex Action for Lightning Flow that determines if a given user has been assigned a custom permission.
 
